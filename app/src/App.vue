@@ -10,9 +10,6 @@
 <script>
 export default {
   name: 'App',
-  created() {
-    console.warn('This blog was inspired from http://evanyou.me/');
-  },
 };
 </script>
 
