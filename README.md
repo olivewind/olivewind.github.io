@@ -1,6 +1,6 @@
 # olivewind
 
-> www.olivewind.com
+> blog.olivewind.com
 
 ## Build Setup
 
