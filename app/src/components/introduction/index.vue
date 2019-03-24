@@ -2,7 +2,7 @@
   <div class="introduction">
     <p>你好，我是<b>王力国</b>(三环没有少)，我是一名软件工程师，目前居住在上海。</p>
     <p>此前在云计算公司 <a href="https://www.daocloud.io/" target="_blank">DaoCloud</a> 任职，现在在人工智能公司 <a href="http://www.datagrand.com/" target="_blank">DataGrand</a> 任职。</p>
-    <p>如果你对编程或者滑板感兴趣的话，欢迎<a @click="contactMe">联系我</a>，你也可以关注我的  <a href="https://github.com/olivewind" target="_blank">GitHub</a> 和  <a href="https://www.zhihu.com/people/san-huan-mei-you-shao" target="_blank">知乎</a>。</p>
+    <p>如果你对编程或者滑板感兴趣的话，欢迎<a @click="contactMe">联系我</a>，欢迎关注我的  <a href="https://github.com/olivewind" target="_blank">GitHub</a> 和  <a href="https://www.zhihu.com/people/san-huan-mei-you-shao" target="_blank">知乎</a>。</p>
   </div>
 </template>
 
