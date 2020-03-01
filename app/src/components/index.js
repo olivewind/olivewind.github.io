@@ -1,13 +1,12 @@
-import Introduction from './introduction';
-import SkateBoard from './skate-board';
 
-const coms = {
-  Introduction,
-  SkateBoard,
+import IssueOverview from './issue-overview.vue';
+
+const COMPONENTS = {
+  IssueOverview,
 };
 
 export default function install(Vue) {
-  Object.keys(coms).forEach((name) => {
-    Vue.component(name, coms[name]);
+  Object.keys(COMPONENTS).forEach((name) => {
+    Vue.component(name, COMPONENTS[name]);
   });
 }
