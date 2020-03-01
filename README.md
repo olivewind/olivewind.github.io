@@ -1,6 +1,6 @@
 # olivewind
 
-> blog.olivewind.com
+> blog2.olivewind.com
 
 ## Build Setup
 
