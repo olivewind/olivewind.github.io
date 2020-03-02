@@ -12,7 +12,7 @@
     <p>
       如果你对编程/滑板/摄影感兴趣的话，欢迎直接
       <a @click="contactMe">联系我</a>，或者通过
-      <a href="https://github.com/olivewind" target="_blank">GitHub</a> 和
+      <a href="https://github.com/olivewind/blog" target="_blank">GitHub</a> 和
       <a href="https://www.zhihu.com/people/san-huan-mei-you-shao" target="_blank">知乎</a>。
     </p>
   </div>
